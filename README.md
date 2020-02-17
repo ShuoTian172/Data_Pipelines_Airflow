@@ -1,4 +1,4 @@
-# Project 5: Data Pipelines with Airflow
+# Data Pipelines with Airflow
 
 <p align="center"><img src="images/logo.png" style="height: 100%; width: 100%; max-width: 200px" /></p>
 
